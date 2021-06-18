@@ -1,5 +1,6 @@
 ### Olá  👋
   Me chamo Carlos tenho 20 anos e sou programador :)
+  ![stats](https://github-readme-stats.vercel.app/api?username=carlos0406&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 <!--
 **carlos0406/carlos0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
