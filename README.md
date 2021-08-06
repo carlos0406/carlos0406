@@ -28,7 +28,7 @@
 
      2017-2021
 
-## Bacharel em Ciências e Tecnologias-UFRN(Em andamento)
+## Bacharel em Ciências e Tecnologia-UFRN(Em andamento)
 
     2021-Atualmente
 
