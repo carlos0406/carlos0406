@@ -4,19 +4,19 @@
 
 <div>
   <div style="display:grid;  grid-template-columns: repeat(4, 1fr); font-size:1.5rem">
-    <span>Nexjs</span>
-    <span>React</span>
-    <span>Typescrit</span>
-    <span>JavaScript</span>
-    <span>Styled-components</span>
-    <span>Sass</span>
-    <span>html</span>
-    <span>css</span>
-    <span>jest</span>
-    <span>Git</span>
-    <span>Gitlab</span>
-    <span>GitHub</span>
-    <span>CI/CD</span>
+    <span>Nexjs</span> |
+    <span>React</span>|
+    <span>Typescrit</span>|
+    <span>JavaScript</span>|
+    <span>Styled-components</span>|
+    <span>Sass</span>|
+    <span>html</span>|
+    <span>css</span>|
+    <span>jest</span>|
+    <span>Git</span>|
+    <span>Gitlab</span>|
+    <span>GitHub</span>|
+    <span>CI/CD</span>|
   </div>
  <!--  <img style="width: 55px;" src="https://camo.githubusercontent.com/8660df2110ee913ff739e173b9d00871d8f8eb1bf7596e22c64d62bfae7e2b5a/68747470733a2f2f7777772e6f6e67726170682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e6578746a735f69636f6e2e706e67" alt=""> 
  <img  style="width: 50px;"  src="https://i.imgur.com/YJEshz8.png" title="source: imgur.com" />
