@@ -18,18 +18,18 @@
     <span>GitHub</span>|
     <span>CI/CD</span>|
   </div>
- <!--  <img style="width: 55px;" src="https://camo.githubusercontent.com/8660df2110ee913ff739e173b9d00871d8f8eb1bf7596e22c64d62bfae7e2b5a/68747470733a2f2f7777772e6f6e67726170682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e6578746a735f69636f6e2e706e67" alt=""> 
- <img  style="width: 50px;"  src="https://i.imgur.com/YJEshz8.png" title="source: imgur.com" />
- <img style="width: 50px;"src="https://i.imgur.com/2UkauW2.png" title="source: imgur.com" />
- <img style="width: 50px;" src="https://i.imgur.com/yuf15o9.png" title="source: imgur.com" />
-  <img  style="width: 50px;" src="https://i.imgur.com/ofgAqwE.png" title="source: imgur.com" />
-  <img  style="width: 50px;" src="https://i.imgur.com/FZ2TPVV.png" title="source: imgur.com" />
-  <img  style="width: 60px;" src="https://i.imgur.com/ZEdiPHy.png" title="source: imgur.com" />
-  <img  style="width: 50px;" src="https://i.imgur.com/8rzdxbP.png" title="source: imgur.com" />
-  <img style="width: 50px;" src="https://nx.dev/documentation/latest/shared/jest-logo.png" alt="">
-  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="">
-  <img style="width: 50px;" src="https://img.icons8.com/color/452/gitlab.png" alt="">
-  <img style="width: 50px;" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="">-->
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="">
 </div>
 <h1 style="font-size:3rem; text-align:center" > Educação  </h1>
 
