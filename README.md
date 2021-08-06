@@ -3,21 +3,6 @@
 <h1 style="font-size:3rem; text-align:center" > Principais Tecnologias  </h1>
 
 <div>
-  <div style="display:grid;  grid-template-columns: repeat(4, 1fr); font-size:1.5rem">
-    <span>Nexjs</span> |
-    <span>React</span>|
-    <span>Typescrit</span>|
-    <span>JavaScript</span>|
-    <span>Styled-components</span>|
-    <span>Sass</span>|
-    <span>html</span>|
-    <span>css</span>|
-    <span>jest</span>|
-    <span>Git</span>|
-    <span>Gitlab</span>|
-    <span>GitHub</span>|
-    <span>CI/CD</span>|
-  </div>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
