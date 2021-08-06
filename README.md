@@ -35,3 +35,4 @@
 ## Ignite ReactJS-Rocktseat(Em Andamento)
 
     2021-Atualmente
+### Olá Me chamo Carlos Sou programador desde 2017 e tenho 20 anos , Sou Apaixonado por programação desde que conheci, minha principal área de estudo são as tecnologias que envolvem o React
