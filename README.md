@@ -1,4 +1,9 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=carlos0406&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<h1> Contato</h1>
+<a href="https://www.linkedin.com/in/carlos-andrade-b35b1b138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href="carlos.andrade.henrique1@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+alt=""/></a>
+	
 
 <h1 style="font-size:3rem; text-align:center" > Principais Tecnologias  </h1>
 
