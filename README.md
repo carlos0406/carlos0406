@@ -18,7 +18,7 @@
     <span>GitHub</span>
     <span>CI/CD</span>
   </div>
-  <img style="width: 55px;" src="https://camo.githubusercontent.com/8660df2110ee913ff739e173b9d00871d8f8eb1bf7596e22c64d62bfae7e2b5a/68747470733a2f2f7777772e6f6e67726170682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e6578746a735f69636f6e2e706e67" alt=""> 
+ <!--  <img style="width: 55px;" src="https://camo.githubusercontent.com/8660df2110ee913ff739e173b9d00871d8f8eb1bf7596e22c64d62bfae7e2b5a/68747470733a2f2f7777772e6f6e67726170682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f6e6578746a735f69636f6e2e706e67" alt=""> 
  <img  style="width: 50px;"  src="https://i.imgur.com/YJEshz8.png" title="source: imgur.com" />
  <img style="width: 50px;"src="https://i.imgur.com/2UkauW2.png" title="source: imgur.com" />
  <img style="width: 50px;" src="https://i.imgur.com/yuf15o9.png" title="source: imgur.com" />
@@ -29,7 +29,7 @@
   <img style="width: 50px;" src="https://nx.dev/documentation/latest/shared/jest-logo.png" alt="">
   <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="">
   <img style="width: 50px;" src="https://img.icons8.com/color/452/gitlab.png" alt="">
-  <img style="width: 50px;" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="">
+  <img style="width: 50px;" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="">-->
 </div>
 <h1 style="font-size:3rem; text-align:center" > Educação  </h1>
 
