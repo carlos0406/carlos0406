@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="">
 <h1> Contato</h1>
 <a href="https://www.linkedin.com/in/carlos-andrade-b35b1b138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
-<a href="carlos.andrade.henrique1@outlook.com">
+
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-alt=""/> 
-</a>
+alt=""/> : carlos.andrade.henrique1@outlook.com
+
 	
 
 
