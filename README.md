@@ -1,5 +1,3 @@
-![stats](https://github-readme-stats.vercel.app/api?username=carlos0406&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
 <h1 style="font-size:3rem; text-align:center" > Principais Tecnologias  </h1>
 
 <div>
